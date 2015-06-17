@@ -1,0 +1,1 @@
+browserify --debug src/app.js -o out/bundle.js
